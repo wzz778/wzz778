@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzz778&layout=compact)](https://github.com/wzz778/github-readme-stats)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzz778&show_icons=true&theme=tokyonight)
