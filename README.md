@@ -1,5 +1,5 @@
 
-
+- 👷‍♂️ 方向: 前端开发
 - 📫 邮箱: 15038727708@163.com
 - 🚀 博客: http://zezhengyyds.gitee.io/personal-blog-wzz/
 
