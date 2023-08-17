@@ -3,4 +3,4 @@
 - 🚀 博客: http://zezhengyyds.gitee.io/personal-blog-wzz/
 - 🛸 掘金：https://juejin.cn/user/3004330270263432
 - 🤳 介绍：一个积极向上，乐于探索的00后
-- ✨ 个签：悟性自足，不假外求
+- ✨ 个签：懂得感恩
