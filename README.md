@@ -1,6 +1,6 @@
 - 👷‍♂️  方向：前端开发
 - 📫 邮箱: 15038727708@163.com
-- 🚀 博客：https://zezhengyyds.gitee.io/personal-blog-wzz/
+- 🚀 博客：https://zezhengyyds.gitee.io/aze-blog/
 - 🛸 掘金：https://juejin.cn/user/3004330270263432
 - 🤳 介绍：一个积极向上的00后，喜欢折腾一些有趣的东西。
 - ✨ 个签：乐观、积极、感恩、承担！
